@@ -1,0 +1,2 @@
+# PensamentoComputacional
+Atividades da facldade

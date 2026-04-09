@@ -1,2 +1,2 @@
 # PensamentoComputacional
-Atividades da facldade
+Atividades da faculdade

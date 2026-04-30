@@ -12,9 +12,23 @@ Identificar dificuldades reais no desenvolvimento de aplicações complexas.
 Aplicar metodologias ágeis no planejamento do projeto.
 
 Sistema Proposto
-Nome do Sistema:
+Nome do Sistema: Plataforma de E-commerce Nível global
 
-Descrição:
+Descrição: Uma plataforma que permita compra e venda de produtos entre usuários localizados entre diferentes regiões do mundo.
+
+Para ser eficiente a plataforma precisa integrar:
+- Cadastro e autenticação de usuários
+- Catálogo de produtos
+- Carrinho de compras
+- Sistema de pagamentos
+- Rastreamento de pedidos
+- Avaliações e feedback de usuários
+
+Além disso, precisa oferecer:
+- Alta disponibilidade
+- Baixo tempo de resposta
+- Segurança de dados e transações
+- Capacidade de lidar com picos de acesso
 
 Decomposição:
 

@@ -6,15 +6,15 @@ Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional 
 O objetivo é aplicar os conceitos de pensamento computacional e engenharia de software na concepção de um sistema de larga escala, explorando decomposição, abstração, reconhecimento de padrões e algoritmos.
 
 Objetivos
-Relacionar engenharia de software e pensamento computacional.
-Reconhecer princípios e padrões relevantes para sistemas de larga escala.
-Identificar dificuldades reais no desenvolvimento de aplicações complexas.
-Aplicar metodologias ágeis no planejamento do projeto.
+- Relacionar engenharia de software e pensamento computacional.
+- Reconhecer princípios e padrões relevantes para sistemas de larga escala.
+- Identificar dificuldades reais no desenvolvimento de aplicações complexas.
+- Aplicar metodologias ágeis no planejamento do projeto.
 
 Sistema Proposto
 Nome do Sistema: Plataforma de E-commerce Nível global
 
-Descrição: Uma plataforma que permita compra e venda de produtos entre usuários localizados entre diferentes regiões do mundo.
+*Descrição:* Uma plataforma que permita compra e venda de produtos entre usuários localizados entre diferentes regiões do mundo.
 
 Para ser eficiente a plataforma precisa integrar:
 - Cadastro e autenticação de usuários

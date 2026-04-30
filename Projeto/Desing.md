@@ -57,10 +57,6 @@ Com base nos desafios e na estrutura definida, são apresentadas a seguir soluç
 - Autenticação em múltiplos fatores
 - Monitoramento de fraudes
 
-**Alta concorrência:**
-- Filas de processamento (ex: pedidos e pagamentos)
-- Banco de dados distribuído
-
 **Recomendação:**
 - Algoritmos baseados em histórico de compras e navegação
 

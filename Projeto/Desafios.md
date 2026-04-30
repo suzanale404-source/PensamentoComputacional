@@ -1,5 +1,6 @@
 # Desafios
 Os principais desafios técnicos encontras ao desenvolver um sistema desse porte são:
+
 **- Escalabilidade:**
 O sistema precisa crescer conforme o número de usuários aumenta, sem perder desempenho. Muitos usuários acessando ao mesmo tempo podem causar lentidão ou falhas.
 

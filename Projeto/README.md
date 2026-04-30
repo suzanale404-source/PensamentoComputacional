@@ -1,5 +1,5 @@
 Projeto – Pensamento Computacional para Sistemas de Larga Escala
-
+-
 Descrição
 Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional no curso de Engenharia Mecânica, com a Profa. Kadidja Valéria
 
@@ -30,19 +30,8 @@ Além disso, precisa oferecer:
 - Segurança de dados e transações
 - Capacidade de lidar com picos de acesso
 
-Decomposição:
-
-Abstração:
-
-Algoritmos:
-Fluxo de cálculo de médias e recomendações personalizadas.
 Metodologia de Desenvolvimento
+-
 Metodologia: Scrum
 Sprints: 2 semanas
-
 Ferramentas: GitHub Projects, Issues, Kanban
-
-Desafios Identificados
-Escalabilidade para milhares de usuários simultâneos.
-Segurança de dados sensíveis (princípios de Saltzer & Schroeder).
-Integração com sistemas externos (bibliotecas digitais, APIs).

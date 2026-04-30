@@ -30,6 +30,8 @@ Além disso, precisa oferecer:
 - Capacidade de lidar com picos de acesso
 
 ## Metodologia de Desenvolvimento
-Metodologia: Scrum
-Sprints: 2 semanas
-Ferramentas: GitHub Projects, Issues, Kanban
+**Metodologia:** Scrum
+
+**Sprints:** 2 semanas
+
+**Ferramentas:** GitHub Projects, Issues, Kanban

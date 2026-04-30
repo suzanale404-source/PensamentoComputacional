@@ -45,31 +45,25 @@ Menos crítico (pode ser simplificado inicialmente):
 Com base nos desafios e na estrutura definida, são apresentadas a seguir soluções para cada desafio.
 
 **Escalabilidade:**
-
-- Uso de computação em nuvem com balanceamento de carga
-- Auto scaling (aumentar servidores automaticamente)
-
+- Uso de balanceamento de carga em nuvem. Distribui tráfego de rede e cargas de trabalho entre vários servidores, evitando sobrecarga em um único ponto e garantindo alta escalabilidade e desempenho.
+- Auto scaling (dimensionamento automático). Ajusta a quantidade de servidores baseando-se na demanda, aumentando recursos em períodos de pico e reduzindo quando a demanda é baixa.
+ 
 **Desempenho:**
-
 - Implementação de cache (ex: produtos mais acessados)
-- Uso de CDN para conteúdo estático
+- Uso de CDN
 
 **Segurança:**
-
 - Criptografia de dados
 - Autenticação em múltiplos fatores
 - Monitoramento de fraudes
 
 **Alta concorrência:**
-
 - Filas de processamento (ex: pedidos e pagamentos)
 - Banco de dados distribuído
 
 **Recomendação:**
-
 - Algoritmos baseados em histórico de compras e navegação
 
 **Confiabilidade:**
-
 - Sistemas de backup
 - Monitoramento em tempo real

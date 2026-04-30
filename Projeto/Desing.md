@@ -6,6 +6,7 @@ Dividindo o sistema em partes menores (microserviços):
 - Catálogo de produtos
 - Busca e recomendação
 - Carrinho de compras
+- Itens favoritos
 - Pedidos
 - Pagamentos
 - Envio/logística/rastreio

@@ -16,3 +16,9 @@ Durante a aula, foi discutida a trajetória da ciência da computação como dis
 **Descrição:** O uso da lógica computacional é frequentemente utilizado para resolver problemas de engenharia. Por exemplo, ao projetar uma máquina, a decomposição é aplicada ao dividir um sistema mecânico complexo em vários subsistemas, permitindo a análise individual de cada parte.
 
 **Impacto:** A aplicação do Pensamento Computacional torna-se fundamental na engenharia, pois permite a resolução de problemas complexos de maneira eficiente. A abstração, decomposição, reconhecimento de padrões e criação de algoritmos auxiliam o estudante de engenharia nas análises e interpretação de sistemas mecânicos, no projeto de máquinas complexas, na identificação de falhas de componentes, entre outros.
+## 🔹 Reflexão - Pensamento Computacional na Formação Acadêmica e Profissional
+Ao longo da formação acadêmica, independente da área de conhecimento, o estudante precisa pensar de maneira crítica e resolver problemas complexos. O pensamento computacional auxilia no desenvolvimento de uma abordagem estruturada para lidar com os desafios encontrados.
+## 🔹 Conclusão
+O pensamento computacional é uma habilidade interdisciplinar, que ajuda os estudantes a lidar com os desafios encontrados no ensino superior. A implementação do PC nas universidades busca desenvolver o pensamento crítico, a resiliência e a capacidade de abstração dos estudantes, essenciais para a cidadania e o mercado de trabalho.
+## 🔹 Bibliografia
+SANTOS, Marcelo. **Pensamento Computacional.** SAGAH, 2021.

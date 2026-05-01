@@ -1,5 +1,5 @@
 # Pensamento Computacional Aplicado
-## Decomposição
+## 🔹 Decomposição
 Dividindo o sistema em partes menores (microserviços):
 
 - Autenticação (login/cadastro)
@@ -14,7 +14,7 @@ Dividindo o sistema em partes menores (microserviços):
 - Notificações (email, SMS)
 - Suporte ao cliente
 
-## Reconhecimento de Padrões
+## 🔹 Reconhecimento de Padrões
 Plataformas já existentes, como Amazon, Mercado Livre e Shopee, podem servir como referência, ajudando a projetar soluções baseadas nos padrões já testados.
 
 Alguns dos padrões observados nesses sistemas são:
@@ -24,7 +24,7 @@ Alguns dos padrões observados nesses sistemas são:
 - Cache para melhorar desempenho
 - Filas para processamento
 
-## 3. Abstração
+## 🔹 Abstração
 
 Foco no que é essencial:
 
@@ -41,7 +41,7 @@ Menos crítico (pode ser simplificado inicialmente):
 - Recursos estéticos complexos
 - Funcionalidades secundárias (ex: redes sociais internas)
 
-## 4. Algoritmos
+## 🔹 Algoritmos
 
 Com base nos desafios e na estrutura definida, são apresentadas a seguir soluções para cada desafio.
 

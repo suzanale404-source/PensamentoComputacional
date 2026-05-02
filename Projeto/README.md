@@ -42,4 +42,4 @@ Além disso, precisa oferecer:
 - [README.md](./README.md/) → Documentação Principal
 - [Desing.md](./Desing.md/) → Pensamento Computacional Aplicado
 - [Desafios.md](./Desafios.md/) → Lista de desafios e soluções propostas
-- Diagrama.png → Fluxograma
+- [Diagrama.png](./Diagrama.md/) → Fluxograma
